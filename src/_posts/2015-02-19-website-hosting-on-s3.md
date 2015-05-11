@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Website hosting on S3
+tags: aws meta
 ---
 
 [harto.org][src] is static HTML built with [Jekyll]. Until recently it lived on

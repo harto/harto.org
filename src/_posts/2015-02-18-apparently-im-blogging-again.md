@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apparently I'm blogging again
+tags: meta
 ---
 
 I'm going to start blogging again. I kept a blog on [Posterous][posterous] a few

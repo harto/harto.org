@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ghetto AWS profile switcher
+tags: aws
 ---
 
 > All problems in computer science can be solved by another level of

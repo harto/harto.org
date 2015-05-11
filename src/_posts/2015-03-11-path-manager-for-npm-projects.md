@@ -1,6 +1,7 @@
 ---
 layout: post
 title: $PATH manager for npm projects
+tags: nodejs
 ---
 
 I wrote this dumb script to add npm project binaries to `$PATH`. These binaries
